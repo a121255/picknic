@@ -1,0 +1,9 @@
+rootProject.name = 'picknic'
+
+// 모든 모듈 포함
+include 'main'
+include 'api'
+include 'application'
+include 'domain'
+include 'infrastructure'
+include 'common'
